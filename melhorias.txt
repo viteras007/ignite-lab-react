@@ -1,2 +1,0 @@
-*fazer spinner pra quando não tiver dados ainda em Video
-*Quando chamar apenas a rota event ou pedir pro usuario escolher uma aula ou redireciona-lo para a primeira
